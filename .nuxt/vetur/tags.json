@@ -1,0 +1,26 @@
+{
+  "Carousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "Footbar": {
+    "description": "Auto imported from components/Footbar.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SlideNav": {
+    "description": "Auto imported from components/SlideNav.vue"
+  },
+  "Sticky": {
+    "description": "Auto imported from components/Sticky.vue"
+  },
+  "Title": {
+    "description": "Auto imported from components/Title.vue"
+  }
+}

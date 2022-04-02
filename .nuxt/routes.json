@@ -1,0 +1,92 @@
+[
+  {
+    "name": "hcp",
+    "path": "/hcp",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\hcp\\\\index.vue",
+    "chunkName": "pages/hcp/index"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\index.vue",
+    "chunkName": "pages/patient/index"
+  },
+  {
+    "name": "hcp-looking-ahead",
+    "path": "/hcp/looking-ahead",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\hcp\\\\looking-ahead.vue",
+    "chunkName": "pages/hcp/looking-ahead"
+  },
+  {
+    "name": "hcp-patient-financial-assistance",
+    "path": "/hcp/patient-financial-assistance",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\hcp\\\\patient-financial-assistance.vue",
+    "chunkName": "pages/hcp/patient-financial-assistance"
+  },
+  {
+    "name": "hcp-patient-resources",
+    "path": "/hcp/patient-resources",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\hcp\\\\patient-resources.vue",
+    "chunkName": "pages/hcp/patient-resources"
+  },
+  {
+    "name": "hcp-therapies",
+    "path": "/hcp/therapies",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\hcp\\\\therapies.vue",
+    "chunkName": "pages/hcp/therapies"
+  },
+  {
+    "name": "patient-about-rare-blood-disorders",
+    "path": "/patient/about-rare-blood-disorders",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\about-rare-blood-disorders.vue",
+    "chunkName": "pages/patient/about-rare-blood-disorders"
+  },
+  {
+    "name": "patient-financial-assistance",
+    "path": "/patient/financial-assistance",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\financial-assistance.vue",
+    "chunkName": "pages/patient/financial-assistance"
+  },
+  {
+    "name": "patient-find-an-event",
+    "path": "/patient/find-an-event",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\find-an-event.vue",
+    "chunkName": "pages/patient/find-an-event"
+  },
+  {
+    "name": "patient-our-treatments",
+    "path": "/patient/our-treatments",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\our-treatments.vue",
+    "chunkName": "pages/patient/our-treatments"
+  },
+  {
+    "name": "patient-sign-up",
+    "path": "/patient/sign-up",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\sign-up.vue",
+    "chunkName": "pages/patient/sign-up"
+  },
+  {
+    "name": "patient-resources-for-you-attp-support",
+    "path": "/patient/resources-for-you/attp-support",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\resources-for-you\\\\attp-support.vue",
+    "chunkName": "pages/patient/resources-for-you/attp-support"
+  },
+  {
+    "name": "patient-resources-for-you-cad-support",
+    "path": "/patient/resources-for-you/cad-support",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\resources-for-you\\\\cad-support.vue",
+    "chunkName": "pages/patient/resources-for-you/cad-support"
+  },
+  {
+    "name": "patient-resources-for-you-hemophilia-suport",
+    "path": "/patient/resources-for-you/hemophilia-suport",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\patient\\\\resources-for-you\\\\hemophilia-suport.vue",
+    "chunkName": "pages/patient/resources-for-you/hemophilia-suport"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\projects\\\\brazil2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

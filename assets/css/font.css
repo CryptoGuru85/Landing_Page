@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "ITCAvantGardeStd-Md";
+  src: url(~assets/fonts/ITCAvantGardeStd-Md.otf) format("opentype");
+}
+@font-face {
+  font-family: "ITCAvantGardeStd-Demi";
+  src: url(~assets/fonts/ITCAvantGardeStd-Demi.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "ITCAvantGardeStd-Bold";
+  src: url(~assets/fonts/ITCAvantGardeStd-Bold.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "ITCAvantGardeStd-BkObl";
+  src: url(~assets/fonts/ITCAvantGardeStd-BkObl.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "ITCAvantGardeGothicLTDemiRegular";
+  src: url(~assets/fonts/ITCAvantGardeGothicLTDemiRegular.otf) format("opentype");
+}
+
+
